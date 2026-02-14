@@ -7,7 +7,6 @@
 [![Delta Lake](https://img.shields.io/badge/Delta%20Lake-3.2-green.svg)](https://delta.io/)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)]()
 
-[Live Demo](#) | [Documentation](#) | [Screenshots](#)
 
 ---
 
@@ -219,17 +218,11 @@ pytest tests/ --cov=src --cov-report=html
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/chvkanishk/)
+- GitHub: [@yourusername](https://github.com/chvkanishk)
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
-
----
 
 ## 🙏 Acknowledgments
 
